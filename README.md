@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle bug in Perl related to indirect variable references. The `bug.pl` file contains code that exhibits the unexpected behavior. The solution, provided in `bugSolution.pl`, offers a safer and more predictable approach.
